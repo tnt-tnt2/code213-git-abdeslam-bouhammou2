@@ -1,0 +1,4 @@
+1.Never commit secrets or passwords
+2.Review changes with git diff first 
+3.Keep secret files listed in .gitignore
+4.Werite small commits with clear messages
