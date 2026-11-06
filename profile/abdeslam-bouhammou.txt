@@ -1,0 +1,6 @@
+HI, Iam abdeslam bouhammou
+i study cyber security and i am learning DevSecOps.
+During code213 i want to master:
+1)Advanced Penrtration Taesting (APT)
+2)Adversary Emulation (AE)
+3)Exploit Development (E.D)
